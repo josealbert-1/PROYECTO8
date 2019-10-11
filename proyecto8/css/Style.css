@@ -1,0 +1,49 @@
+#encabezado{
+    background-color: blueviolet;
+    margin: -10px;
+    padding: 0px;
+    padding-bottom: 0px;
+}
+#menu{
+    padding-bottom: 2px;
+    margin-block: 600px;
+    margin-inline: 100xp;
+    background: rgb(15, 14, 14);
+    padding-inline-start: auto;
+   
+
+}
+a{
+    margin-left: 10px;
+}
+.piepagina
+{
+    margin: -65px;
+    position: relative;
+    font-display: 100px;
+    padding-bottom: 150px;
+    background-color: black;
+    padding-bottom: auto;
+ 
+}
+ul li{
+    display: inline;
+    list-style: none;
+}
+a{
+    background-color: rgb(54, 50, 50);
+    color: white;
+
+}
+.areaPrincipal
+{
+font-display: 200px;
+margin: 65px;
+padding: 0px;
+background-color: rgb(231, 35, 205);
+text-align: left;
+padding-bottom: 320px;
+}
+.descripcion{
+    text-decoration: blue;
+}
